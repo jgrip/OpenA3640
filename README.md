@@ -1,7 +1,7 @@
 
 # OpenA3640
 
-![Render of PCB](https://raw.githubusercontent.com/jgrip/OpenA3640/main/Pictures/board.jpg)
+![Render of PCB](https://raw.githubusercontent.com/jgrip/OpenA3640/main/Pics/board.jpg)
 
 This is a clone of the Commodore CPU card made with KiCad, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
