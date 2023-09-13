@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Griffin-Logic")(type "KiCad")(uri "/home/int.ogun.org/jgrip/Hardware/own/griffin-libs/symbols/Griffin-Logic.kicad_sym")(options "")(descr ""))
+  (lib (name "Griffin-Misc")(type "KiCad")(uri "/home/int.ogun.org/jgrip/Hardware/own/griffin-libs/symbols/Griffin-Misc.kicad_sym")(options "")(descr ""))
+  (lib (name "Griffin-CPU")(type "KiCad")(uri "/home/int.ogun.org/jgrip/Hardware/own/griffin-libs/symbols/Griffin-CPU.kicad_sym")(options "")(descr ""))
+)

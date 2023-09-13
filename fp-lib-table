@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "A3000")(type "KiCad")(uri "/home/int.ogun.org/jgrip/Hardware/external/ReAmiga-3000---KiCAD/A3000.pretty")(options "")(descr ""))
+  (lib (name "Griffin-footprints")(type "KiCad")(uri "/home/int.ogun.org/jgrip/Hardware/own/griffin-libs/footprints")(options "")(descr ""))
+)
