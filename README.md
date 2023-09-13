@@ -6,7 +6,7 @@
 This is a clone of the Commodore CPU card made with KiCad, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 It contains both schematic and PCB layout, based on the original C= schematics.
-This PCB has been been manufactured and tested but it should work.
+This PCB has *not* been manufactured and tested but it should work. Should you want to make boards from this it is at your own risk.
 
 The only changes made compared to the original C= PCB layout is that the silkscreen for the C105, C106 and C107 electrolytic capacitors have been corrected.
 
